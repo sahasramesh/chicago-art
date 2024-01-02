@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chicago-art/static/css/main.0899e4b5.css",
+    "main.js": "/chicago-art/static/js/main.bbb3336e.js",
+    "index.html": "/chicago-art/index.html",
+    "main.0899e4b5.css.map": "/chicago-art/static/css/main.0899e4b5.css.map",
+    "main.bbb3336e.js.map": "/chicago-art/static/js/main.bbb3336e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0899e4b5.css",
+    "static/js/main.bbb3336e.js"
+  ]
+}
